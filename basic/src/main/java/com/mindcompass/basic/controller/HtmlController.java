@@ -7,7 +7,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
-import com.mindcompass.model.Member;
+
+import com.mindcompass.basic.model.Member;
 
 @Controller
 public class HtmlController {

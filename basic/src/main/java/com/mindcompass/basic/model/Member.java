@@ -1,4 +1,4 @@
-package com.mindcompass.model;
+package com.mindcompass.basic.model;
 
 import lombok.Data;
 
